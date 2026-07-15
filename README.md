@@ -81,7 +81,7 @@ This project was completed as part of the **SQL CASE Statements** guided project
 
 **Your Name**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/saikat912
 
 ---
 
